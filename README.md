@@ -1,5 +1,5 @@
 # Title
-* zzzzgjghjgjgjgjgzzffffdddddd by Troy Johnson
+* undefined by troy
 
 ## Table of Contents
 1. [General Info](#general-info)
@@ -12,29 +12,29 @@
 8. [FAQs](#faqs)
 
 ## General Info
-* desc of project
-* ![img desc](/assets/img/img src)
+* ddd
+* ![dd](/assets/img/ddd)
 
 ## Technologies
-* This website was created with HTML,CSS,JavaScript code on Microsoft Visual Studio Code.
+* This website was created with  code on Microsoft Visual Studio Code.
 
 # Installation
-* Go to https://github.com/tnj415/GitToKnowMe and copy the repository on Github by clicking the green code button.
+* Go to https://github.com/ffd/ddd and copy the repository on Github by clicking the green code button.
 * Open your terminal, navigate to destination you want to download this repository, and run the command:
-    * $ git clone https://github.com/tnj415/GitToKnowMe.git
+    * $ git clone https://github.com/ffd/ddd.git
 
 # Usage
-* The current version of the website can be accessed at the url: https://tnj415.github.io/GitToKnowMe/
+* The current version of the website can be accessed at the url: https://ffd.github.io/ddd/
 * This website can be navigated with the links at the top, or by scrolling through the website in a website browser on a computer, laptop, tablet, or cellphone.
 
 # Collaboration
-* The sole developer of this website is me, Troy Johnson.
+* The sole developer of this website is me, troy.
 
 # Github
-* The Repository can be accessed on Github at https://github.com/tnj415/GitToKnowMe
+* The Repository can be accessed on Github at https://github.com/ffd/ddd
 
 # eMail
-* The best way to contact me is at tnj8510@gmail.com.
+* The best way to contact me is at df.
 
 # Frequently Asked Questions
 * There are no frequently asked questions.
