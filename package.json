@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/tnj415/READMEgenerator#readme",
   "dependencies": {
-    "fs": "0.0.1-security",
     "inquirer": "^8.1.2"
   }
 }
