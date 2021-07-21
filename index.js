@@ -20,7 +20,7 @@ const generateREADME = (response) =>
 
 ## General Info
 * ${response.projectDescription}
-* ![${response.imgDescription}](/assets/img/${response.projectImg})
+![${response.imgDescription}](/assets/img/${response.projectImg})
 
 ## Technologies
 * This website was created with ${response.techUsed} code on Microsoft Visual Studio Code.
