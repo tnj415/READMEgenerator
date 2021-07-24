@@ -1,7 +1,7 @@
 # Title
-* teamRosterGenerator by Troy Johnson
+* READMEgenerator by Troy Johnson
 
-# ![GitHub license](https://img.shields.io/badge/license-NONE-blue.svg)
+# ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
 1. [General Info](#general-info)
@@ -14,26 +14,26 @@
 8. [FAQs](#faqs)
 
 ## General Info
-* This program allows users to use the terminal to  build a team of their employees and it generates an HTML file that displays everyone on the team
-* ![a snapshot of the website generated from this program](/assets/img/./dist/images/websiteCapture.PNG)
+* This project prompts user for information that will be used to generate a README.md document
+![Image of a README.md produced by this generator (in "preview" view)](/assets/img/RMg.PNG)
 
 ## Technologies
 * This website was created with HTML,CSS,JavaScript,Node JS code on Microsoft Visual Studio Code.
 
 # Installation
-* Go to https://github.com/tnj415/teamRosterGenerator and copy the repository on Github by clicking the green code button.
+* Go to https://github.com/tnj415/READMEgenerator and copy the repository on Github by clicking the green code button.
 * Open your terminal, navigate to destination you want to download this repository, and run the command:
-    * $ git clone https://github.com/tnj415/teamRosterGenerator.git
+    * $ git clone https://github.com/tnj415/READMEgenerator.git
 
 # Usage
-* The current version of the website can be accessed at the url: https://tnj415.github.io/teamRosterGenerator/
+* The current version of the website can be accessed at the url: https://tnj415.github.io/READMEgenerator/
 * This website can be navigated with the links at the top, or by scrolling through the website in a website browser on a computer, laptop, tablet, or cellphone.
 
 # Collaboration
 * The sole developer of this website is me, Troy Johnson.
 
 # Github
-* The Repository can be accessed on Github at https://github.com/tnj415/teamRosterGenerator
+* The Repository can be accessed on Github at https://github.com/tnj415/READMEgenerator
 
 # eMail
 * The best way to contact me is at tnj8510@gmail.com.

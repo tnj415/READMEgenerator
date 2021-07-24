@@ -105,7 +105,7 @@ inquirer.prompt([
 
         const readMeContent = generateREADME(response)
 
-        var saveTo = 'README.md'
+        var saveTo = 'generatedREADME.md'
         // if (response.fullName === 'Troy N Johnson') {
         // saveTo = fileSaverTroy()
         // }
