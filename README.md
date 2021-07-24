@@ -15,7 +15,7 @@
 
 ## General Info
 * This project prompts user for information that will be used to generate a README.md document
-![Image of a README.md produced by this generator (in "preview" view)](/assets/img/RMg.PNG)
+* ![Image of a README.md produced by this generator (in "preview" view)](/assets/img/RMg.PNG)
 
 ## Technologies
 * This website was created with HTML,CSS,JavaScript,Node JS code on Microsoft Visual Studio Code.
